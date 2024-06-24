@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Lukass Kellijs
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lukass Kellijs
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lukass
+last_name: Kellijs
 
 # Status emoji
 status:
